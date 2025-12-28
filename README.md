@@ -68,3 +68,10 @@ Sonuç: Eğitim sonunda loss (kayıp) değeri 1.6'dan 0.8'e düşerek modelin ö
 💾 Kurulum ve Kullanım
 Ollama ile Çalıştırma
 Eğitilen model GGUF formatına dönüştürülmüş ve Ollama üzerinden erişilebilir hale getirilmiştir.
+
+
+
+
+
+hugginface model linki: https://huggingface.co/resvan40/carmodel/tree/main
+hugginface veriseti linki: https://huggingface.co/datasets/resvan40/cardata
